@@ -1,0 +1,9 @@
+[submodule "raspberrypi-wifi"]
+	path = raspberrypi-wifi
+	url = https://github.com/GAIA-project/GaiaPi
+[submodule "arduino-xbee"]
+	path = arduino-xbee
+	url = https://github.com/CTI-ru1/iot-nodes
+[submodule "arduino-lora"]
+	path = arduino-lora
+	url = https://github.com/CTI-ru1/dragino-lora
