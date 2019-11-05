@@ -7,6 +7,7 @@ noise levels, which are installed into select classrooms or other school buildin
 * IoT weather stations, typically installed outdoors on the buildings’ roofs or select spots.
 * IoT gateway devices, serving as local coordinators of the IoT network and connecting to the GAIA
 cloud infrastructure and ecosystem.
+
 All of the aforementioned IoT devices communicate wirelessly with each other, eliminating almost all
 dependency on wired connectivity, apart from the gateway devices. Specificlly the used networking
 technologies and protocols are: IEEE 802.15.4, LoRa and WiFi.
